@@ -9,7 +9,7 @@
 // EASY 1. Find the first h1 element on the main page.
 //
 
-$x('//div[@id="main-content"]/h1[1]');
+$x('//div[@id="main-content"]/h1');
 
 //
 // EASY 2. Find all images that have an 'alt' attribute.
